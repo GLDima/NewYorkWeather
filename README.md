@@ -10,6 +10,6 @@ Solution contains:
 - NewYorkWeather.Core is DotNetStandard library with  RESTful API interaction logic.
 - NewYorkWeather.UITests project with UI tests for Xamarin.Forms pages.
 
-NewYorkWeather.UITests unit test project, there is a set of cross-platform tests in a "Test" class. These tests will be run against both platforms. You could use Visual Studio Unit Tests Runner to run them.
+NewYorkWeather.UITests has a set of cross-platform tests in a "Test" class. They will be run against both platforms. You could use Visual Studio Unit Tests Runner to run them.
 
 ![screenshot](https://raw.githubusercontent.com/GLDima/NewYorkWeather/master/screenshots/TestRuner.png "Test hierarchy")
