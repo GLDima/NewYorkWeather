@@ -16,8 +16,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Targets", "Targets", "{7705
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{421C40AD-8691-4C9A-B8A9-E303F63B94E9}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21433B47-AC6A-4F12-8E6E-87F9731D7DD1}"
-EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		NewYorkWeather\NewYorkWeather.UI.projitems*{46a0a830-0597-41ad-878c-191c573bf75d}*SharedItemsImports = 4
